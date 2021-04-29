@@ -1,10 +1,6 @@
 # hibernate_demo_maven
 Пример приложения с Hibernate для IntelliJ IDEA на Java (сборщик MAVEN)
 
-![screenshot](screenshot1.png)
-
-![screenshot](screenshot2.png)
-
 ![screenshot](screenshot3.png)
 
 https://repository.sonatype.org/index.html#welcome
@@ -45,3 +41,8 @@ pom.xml
 
 </project>
 ```
+
+![screenshot](screenshot1.png)
+
+![screenshot](screenshot2.png)
+
